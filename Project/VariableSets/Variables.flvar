@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="PhoneNumber"
+    Comment=""
+    EvaluatedDefinition="858-123-4567">858-123-4567</Variable>
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    EvaluatedDefinition="MadTravel">MadTravel</Variable>
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    EvaluatedDefinition="Travel Inc.">Travel Inc.</Variable>
+  <Variable
+    Name="AsiaVariants"
+    Comment=""
+    EvaluatedDefinition="Asia">Asia</Variable>
+  <Variable
+    Name="AsiaVariants"
+    Comment=""
+    EvaluatedDefinition="East Asia">East Asia</Variable>
+</CatapultVariableSet>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="3"
+  SkinType="WebHelp2"
+  Comment="HTML5 Default Tripane skin"
+  Anchors="Width,Height"
+  Width="800"
+  Height="600"
+  Top="0"
+  Left="0"
+  Bottom="0"
+  Right="0"
+  Tabs="TOC,Index,Community"
+  DefaultTab="TOC"
+  UseBrowserDefaultSize="True"
+  UseDefaultBrowserSetup="True"
+  EnableResponsiveOutput="True"
+  AutoSyncTOC="true">
+  <Stylesheet>
+    <Resources>
+      <Resource
+        Name="logo.png">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</Resource>
+    </Resources>
+    <Styles>
+      <Style
+        Name="Logo">
+        <Properties>
+          <Property
+            Name="BackgroundImage">url('logo.png')</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <WebHelpOptions />
+  <Strings />
+</CatapultSkin>
